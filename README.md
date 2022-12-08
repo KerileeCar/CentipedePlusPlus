@@ -1,6 +1,7 @@
 # CentipedePlusPlus
 
-![image](https://user-images.githubusercontent.com/88647315/206424482-1b268258-068b-47cb-b712-5450954a9ebb.png) ![image](https://user-images.githubusercontent.com/88647315/206424667-c634d418-abf8-4caf-a03d-f030c34d0bd5.png) ![image](https://user-images.githubusercontent.com/88647315/206424729-7c685273-f1a0-4040-834c-924ddbcc12f3.png)
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/88647315/206425233-441a2537-4bc5-4ad1-9480-89b5c6a63f30.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/87419112/203600599-3abb47b9-bdda-4a90-976d-140d013bc8fd.png">
 
 This repository contains the code used to implement a version of the classic Centipede Game in C++.
 
